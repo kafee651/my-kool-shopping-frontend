@@ -1,1 +1,0 @@
-# my-kool-shopping-frontend
